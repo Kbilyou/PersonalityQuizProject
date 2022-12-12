@@ -5,6 +5,8 @@ import java.io.FileNotFoundException;
 import java.util.Scanner; 
 
 // Team 4: Sheila Le
+// Kamron Bilyou
+// Freda Mensah
 public class Introvert 
 {
 	File file = new File("questions1.txt");
