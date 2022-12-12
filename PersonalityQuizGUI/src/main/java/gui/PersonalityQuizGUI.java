@@ -4,6 +4,8 @@ import introvert.Introvert;
 import extrovert.Extrovert;
 
 // Team 4: Kamron Bilyou
+// Freda Mensah 
+// Sheila Le
 public class PersonalityQuizGUI extends javax.swing.JFrame 
 {
     static boolean getChoice = true, exit = false;
